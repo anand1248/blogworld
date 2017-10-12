@@ -13,3 +13,4 @@ Link: http://onblogs.stamplayapp.com/#/
 Made with :green_heart: by **Anand Pavithran**
 
 Enjoy!!
+*CURRENTLY OFFLINE*
